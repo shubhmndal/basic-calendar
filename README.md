@@ -35,7 +35,7 @@ This is a simple Python project that generates a basic calendar for a given year
    ```
 2. Enter the year when prompted:
    ```
-   Enter the year: 2023
+   Enter the year: 2025
    ```
 3. The script will display the calendar for the specified year.
 
