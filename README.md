@@ -43,7 +43,7 @@ This is a simple Python project that generates a basic calendar for a given year
 
 ## **Example Output**
 ```
-    January 2023
+    January 2025
 Su Mo Tu We Th Fr Sa
  1  2  3  4  5  6  7
  8  9 10 11 12 13 14
